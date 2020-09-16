@@ -1,2 +1,3 @@
-"Hello"
+Print ("Hello")
+Print("line2")
 
